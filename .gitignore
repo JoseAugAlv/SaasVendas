@@ -1,31 +1,25 @@
 ```
-# Web server
-.htaccess
-
-# PHP
-*.php~
-*.php.bak
-*.log
-
-# Environment
-.env
-.env.local
-.env.*
-
-# Dependencies
-vendor/
-composer.lock
-
-# Logs and temp files
-*.tmp
-*.swp
-*.log
-
-# Editors
-.vscode/
-.idea/
-
-# OS generated files
-.DS_Store
-Thumbs.db
+# Compressed archives
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
 ```
